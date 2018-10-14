@@ -1,0 +1,6 @@
+导入cv2包_opencv-import-cv2
+番外篇-关于cv2的编号_opencv-about-opencv-version
+读入图片_opencv-imread
+显示图片_opencv-display-image
+打印图像相关属性_opencv-print-image-property
+番外篇-为何是BGR不是RGB_opencv-why-bgr-not-rgb

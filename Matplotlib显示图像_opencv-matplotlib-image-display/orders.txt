@@ -1,0 +1,3 @@
+Matplotlib显示彩图_matplotlib-show-color-image
+Matplotlib显示灰度图_matplotlib-show-grayscale-image
+Matplotlib显示多张图片_matplotlib-show-multiple-image

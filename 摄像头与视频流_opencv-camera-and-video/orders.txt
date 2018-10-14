@@ -1,0 +1,4 @@
+Ubuntu下查看USB摄像头设备_ubuntu-check-usb-camera-device
+OpenCV读入USB摄像头拍摄的画面_opencv-read-usb-camera-image
+焦距与USB摄像头镜头调焦_opencv-usb-camrea-focus
+视频录制与视频读取_opencv-video-record-video-read

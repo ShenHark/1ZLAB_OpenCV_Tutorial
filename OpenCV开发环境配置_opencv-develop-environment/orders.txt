@@ -1,0 +1,7 @@
+通过pip安装OpenCV_opencv-install-by-pip
+使用VirtualBox安装Ubuntu虚拟机安装_virtualbox-ubuntu-vm-install
+Ubuntu安装Anaconda_ubuntu-install-anaconda
+Ubuntu通过Anaconda安装OpenCV_ubuntu-install-opencv-by-anaconda
+Ubuntu虚拟机里使用USB摄像头获取图像_ubuntu-vm-use-usb-camera
+Ubuntu从源码编译OpenCV_ubuntu-compile-opencv-from-code
+Mac下配置OpenCV的开发环境_opencv-mac-environment
