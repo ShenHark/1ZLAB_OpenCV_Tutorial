@@ -51,8 +51,7 @@ tickness: 文本宽度
 lineType: 线条样式
 color: 颜色
 '''
-cv2.putText(canvas, text="HelloWorld", org=(50, 200), fontFace=font, fontScale=2, thickness=1, 
-            lineType=cv2.LINE_AA, color=(0, 0, 255))
+cv2.putText(canvas, text="HelloWorld", org=(50, 200), fontFace=font, fontScale=2, thickness=1, lineType=cv2.LINE_AA, color=(0, 0, 255))
 
 cv2.imwrite("draw_text.png", canvas)
 ```

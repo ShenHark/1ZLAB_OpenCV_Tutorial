@@ -6,4 +6,4 @@
 绘制多边形_opencv-draw-draw-polygon
 绘制椭圆形_opencv-draw-draw-ellipse
 绘制文字_opencv-draw-draw-text
-项目实战-绘制口袋妖怪_opencv-draw-draw-koudaiyaoguai
+项目实战_opencv-draw-draw-in-action

@@ -1,4 +1,4 @@
-颜色空间的介绍_opencv-intro-color-space
-颜色空间变换_opencv-convert-color-space
+色彩空间的介绍_opencv-intro-color-space
+色彩空间变换_opencv-convert-color-space
 从BGR到RGB_opencv-cvt-bgr-to-rgb
 HSV色彩空间_opencv-hsv-color-space
